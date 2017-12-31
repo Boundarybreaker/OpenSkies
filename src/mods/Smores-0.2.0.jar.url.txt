@@ -1,0 +1,1 @@
+https://ci.elytradev.com/job/elytra/job/Smores/job/1.12.2/1/artifact/build/libs/Smores-0.2.0.jar

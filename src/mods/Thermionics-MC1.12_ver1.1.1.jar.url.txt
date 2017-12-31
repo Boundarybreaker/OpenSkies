@@ -1,0 +1,1 @@
+https://ci.elytradev.com/job/elytra/job/Thermionics/job/master/40/artifact/build/libs/Thermionics-MC1.12_ver1.1.1.jar

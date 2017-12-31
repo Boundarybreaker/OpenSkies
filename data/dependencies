@@ -1,0 +1,235 @@
+// Dependencies
+digraph {
+	subgraph cluster_legend {
+		style="filled,dashed"
+		fillcolor=lightgrey
+		label=legend
+		subgraph cluster_sides {
+			label=sides
+			Client [color=lawngreen style=filled]
+			Server [color=deepskyblue style=filled]
+			Both [color=grey style=filled]
+		}
+		subgraph cluster_dependencies {
+			label=dependencies
+			Required [label=Required style=solid]
+			Dependency -> Required [len=2.0 style=solid]
+			Optional [label=Optional style=dashed]
+			Dependency -> Optional [len=2.0 style=dashed]
+			Embedded [label=Embedded style=dotted]
+			Dependency -> Embedded [len=2.0 style=dotted]
+		}
+		subgraph cluster_recommendation {
+			label=recommendation
+			recommendation_starred [label=starred fillcolor=green style="filled,dashed"]
+			recommendation_avoid [label=avoid fillcolor=red style="filled,dashed"]
+		}
+		subgraph cluster_selected {
+			label=selected
+			selected_True [label=True fillcolor=cyan style="filled,solid"]
+			selected_False [label=False fillcolor=darkslategray style="filled,solid"]
+		}
+		style=filled
+	}
+	Botania [label=Botania fillcolor=grey style=filled]
+	subgraph "cluster_Thermal Dynamics" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Thermal Dynamics
+Thermal gets Dynamic! Adds ducts - transportation for Redstone Flux, Fluids, and Items!"
+		"Thermal Dynamics" [color=grey style=filled]
+	}
+	Quark [label=Quark fillcolor=grey style=filled]
+	"FoamFixUnofficial-1.12-0.8.1-Anarchy" [label="FoamFixUnofficial-1.12-0.8.1-Anarchy" fillcolor=grey style=filled]
+	AppleSkin [label=AppleSkin fillcolor=lawngreen style=filled]
+	subgraph "cluster_Just Enough Items (JEI)" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Just Enough Items (JEI)
+View Items and Recipes"
+		"Just Enough Items (JEI)" [color=grey style=filled]
+	}
+	"Compact Machines" [label="Compact Machines" fillcolor=grey style=filled]
+	subgraph cluster_NoNausea {
+		style=striped
+		fillcolor="lightgrey:green;0.1:cyan;0.1"
+		label="NoNausea
+Replace the vanilla nausea effect with something less headache inducing"
+		NoNausea [color=lawngreen style=filled]
+	}
+	subgraph cluster_OpenComputers {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="OpenComputers
+Modular, persistent, programmable computers and robots."
+		OpenComputers [color=grey style=filled]
+	}
+	subgraph "cluster_Actually Additions" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Actually Additions
+A bunch of awesome gadgets and things! But it's way more than just that!"
+		"Actually Additions" [color=grey style=filled]
+	}
+	subgraph cluster_Chisel {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Chisel
+A builder's best friend."
+		Chisel [color=grey style=filled]
+	}
+	subgraph "cluster_Chisels & Bits" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Chisels & Bits
+Create endless custom decorations using in game materials."
+		"Chisels & Bits" [color=grey style=filled]
+	}
+	subgraph cluster_RFTools {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="RFTools
+RFTools, blocks and items to help with Redflux (dimension builder, crafter, monitor, scanner, ...)"
+		RFTools [color=grey style=filled]
+	}
+	subgraph "cluster_RFTools Dimensions" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="RFTools Dimensions
+This is an addon mod for RFTools which handles creation of dimensions"
+		"RFTools Dimensions" [color=grey style=filled]
+	}
+	subgraph "cluster_Immersive Engineering" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Immersive Engineering
+A retro-futuristic tech mod!"
+		"Immersive Engineering" [color=grey style=filled]
+	}
+	subgraph cluster_OpenBlocks {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="OpenBlocks
+Random collection of blocks. Some of which aren't blocks at all."
+		OpenBlocks [color=grey style=filled]
+	}
+	JourneyMap [label=JourneyMap fillcolor=grey style=filled]
+	Waystones [label=Waystones fillcolor=grey style=filled]
+	subgraph "cluster_Tinkers Construct" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Tinkers Construct
+Modify all the things, then do it again!"
+		"Tinkers Construct" [color=grey style=filled]
+	}
+	"Better Builder's Wands" [label="Better Builder's Wands" fillcolor=grey style=filled]
+	BiblioCraft [label=BiblioCraft fillcolor=grey style=filled]
+	"Mouse Tweaks" [label="Mouse Tweaks" fillcolor=lawngreen style=filled]
+	subgraph cluster_Colytra {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Colytra
+Allows attachment of elytras to chestplates and includes an elytra bauble for Baubles"
+		Colytra [color=grey style=filled]
+	}
+	subgraph "cluster_Refined Storage" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Refined Storage
+An elegant solution to your hoarding problem."
+		"Refined Storage" [color=grey style=filled]
+	}
+	subgraph "cluster_Integrated Tunnels" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Integrated Tunnels
+Transfer other stuff over Integrated Dynamics networks"
+		"Integrated Tunnels" [color=grey style=filled]
+	}
+	subgraph cluster_Tails {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Tails
+A bunch of different tails, ears and wings to enhance your character!"
+		Tails [color=grey style=filled]
+	}
+	Charset [label=Charset fillcolor=grey style=filled]
+	Thermionics [label=Thermionics fillcolor=grey style=filled]
+	Smores [label=Smores fillcolor=grey style=filled]
+	"Better Boilers" [label="Better Boilers" fillcolor=grey style=filled]
+	Architecturecraft [label=Architecturecraft fillcolor=grey style=filled]
+	ProbeDataProvider [label=ProbeDataProvider fillcolor=grey style=filled]
+	subgraph cluster_FruitPhone {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label=FruitPhone
+
+		FruitPhone [color=grey style=filled]
+	}
+	"Sponge Forge" [label="Sponge Forge" fillcolor=deepskyblue style=filled]
+	"Minecraft Forge" [label="Minecraft Forge" fillcolor=grey style=filled]
+	Baubles [label=Baubles fillcolor=grey style=filled]
+	"CoFH Core" [label="CoFH Core" fillcolor=grey style=filled]
+	"Thermal Foundation" [label="Thermal Foundation" fillcolor=grey style=filled]
+	"CodeChicken Lib 1.8.+" [label="CodeChicken Lib 1.8.+" fillcolor=grey style=filled]
+	AutoRegLib [label=AutoRegLib fillcolor=grey style=filled]
+	ConnectedTexturesMod [label=ConnectedTexturesMod fillcolor=grey style=filled]
+	McJtyLib [label=McJtyLib fillcolor=grey style=filled]
+	OpenModsLib [label=OpenModsLib fillcolor=grey style=filled]
+	Mantle [label=Mantle fillcolor=grey style=filled]
+	"Cyclops Core" [label="Cyclops Core" fillcolor=grey style=filled]
+	"Integrated Dynamics" [label="Integrated Dynamics" fillcolor=grey style=filled]
+	"Redstone Flux" [label="Redstone Flux" fillcolor=grey style=filled]
+	"CoFH World" [label="CoFH World" fillcolor=grey style=filled]
+	"Common Capabilities" [label="Common Capabilities" fillcolor=grey style=filled]
+	Botania -> Baubles [len=3.0 style=solid]
+	Botania -> Quark [len=3.0 style=dashed]
+	Albedo [label=Albedo fillcolor=dimgray style="filled,dotted"]
+	Botania -> Albedo [len=3.0 style=dashed]
+	"Thermal Dynamics" -> "CoFH Core" [len=3.0 style=solid]
+	"Thermal Dynamics" -> "Thermal Foundation" [len=3.0 style=solid]
+	"Thermal Dynamics" -> "CodeChicken Lib 1.8.+" [len=3.0 style=solid]
+	Quark -> AutoRegLib [len=3.0 style=solid]
+	Chisel -> ConnectedTexturesMod [len=3.0 style=solid]
+	"Chisels & Bits" -> "Just Enough Items (JEI)" [len=3.0 style=dashed]
+	MCMultiPart [label=MCMultiPart fillcolor=dimgray style="filled,dotted"]
+	"Chisels & Bits" -> MCMultiPart [len=3.0 style=dashed]
+	RFTools -> McJtyLib [len=3.0 style=solid]
+	"The One Probe" [label="The One Probe" fillcolor=dimgray style="filled,dotted"]
+	RFTools -> "The One Probe" [len=3.0 style=dashed]
+	"Interaction Wheel" [label="Interaction Wheel" fillcolor=dimgray style="filled,dotted"]
+	RFTools -> "Interaction Wheel" [len=3.0 style=dashed]
+	RFTools -> "Redstone Flux" [len=3.0 style=dashed]
+	"RFTools Dimensions" -> RFTools [len=3.0 style=solid]
+	"RFTools Dimensions" -> McJtyLib [len=3.0 style=solid]
+	"The One Probe" [label="The One Probe" fillcolor=dimgray style="filled,dotted"]
+	"RFTools Dimensions" -> "The One Probe" [len=3.0 style=dashed]
+	"RFTools Dimensions" -> "Redstone Flux" [len=3.0 style=dashed]
+	"Immersive Engineering" -> ConnectedTexturesMod [len=3.0 style=dashed]
+	OpenBlocks -> OpenModsLib [len=3.0 style=solid]
+	"JourneyMap Tools" [label="JourneyMap Tools" fillcolor=dimgray style="filled,dotted"]
+	JourneyMap -> "JourneyMap Tools" [len=3.0 style=dashed]
+	"JourneyMap API" [label="JourneyMap API" style=dotted]
+	JourneyMap -> "JourneyMap API" [len=3.0 style=dotted]
+	"Tinkers Construct" -> Mantle [len=3.0 style=solid]
+	"Integrated Tunnels" -> "Cyclops Core" [len=3.0 style=solid]
+	"Integrated Tunnels" -> "Integrated Dynamics" [len=3.0 style=solid]
+	FoxLib [label=FoxLib style=dotted]
+	Tails -> FoxLib [len=3.0 style=dotted]
+	FruitPhone -> ProbeDataProvider [len=3.0 style=solid]
+	"CoFH Lib" [label="CoFH Lib" style=dotted]
+	"CoFH Core" -> "CoFH Lib" [len=3.0 style=dotted]
+	"CoFH Core" -> "Redstone Flux" [len=3.0 style=solid]
+	"Thermal Foundation" -> "CoFH Core" [len=3.0 style=solid]
+	"Thermal Foundation" -> "CoFH World" [len=3.0 style=solid]
+	"The One Probe" [label="The One Probe" fillcolor=dimgray style="filled,dotted"]
+	McJtyLib -> "The One Probe" [len=3.0 style=dashed]
+	McJtyLib -> "Redstone Flux" [len=3.0 style=dashed]
+	"Integrated Dynamics" -> "Cyclops Core" [len=3.0 style=solid]
+	"Integrated Dynamics" -> "Common Capabilities" [len=3.0 style=solid]
+	"Common Capabilities" -> "Cyclops Core" [len=3.0 style=solid]
+	label="
+
+Open Skies"
+	fontsize=20
+}

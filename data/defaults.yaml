@@ -1,0 +1,15 @@
+curse:
+  dump_data: true
+  file_name_regex: .*(?<!-deobf\.jar)$
+  meta_url: https://cursemeta.nikky.moe
+  optional: false
+  release_types:
+  - Release
+  - Beta
+direct: {}
+github: {}
+jenkins:
+  file_name_regex: .*(?<!-sources\.jar)(?<!-api\.jar)$
+local:
+  local_base: local
+mvn: {}
