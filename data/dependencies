@@ -39,6 +39,36 @@ digraph {
 Thermal gets Dynamic! Adds ducts - transportation for Redstone Flux, Fluids, and Items!"
 		"Thermal Dynamics" [color=grey style=filled]
 	}
+	subgraph "cluster_Thermal Expansion" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Thermal Expansion
+Expanding Minecraft Thermally! A server-friendly and content-rich blend of magic and technology!"
+		"Thermal Expansion" [color=grey style=filled]
+	}
+	subgraph "cluster_Thermal Cultivation" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Thermal Cultivation
+Thermal gets Agrarian - provides options for farming and related activities!"
+		"Thermal Cultivation" [color=grey style=filled]
+	}
+	"/dank/null" [label="/dank/null" fillcolor=grey style=filled]
+	subgraph "cluster_Industrial Foregoing" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Industrial Foregoing
+A new mod based on Minefactory Reloaded Machines"
+		"Industrial Foregoing" [color=grey style=filled]
+	}
+	"Mod Name Tooltip" [label="Mod Name Tooltip" fillcolor=grey style=filled]
+	subgraph "cluster_FTB Utilities" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="FTB Utilities
+FTB Utilities is a mod by LatvianModder. It aims to provide several useful utilities within the FTB Platform ranging from friends list, server configuration utilities, world borders, guide system and many other features..."
+		"FTB Utilities" [color=grey style=filled]
+	}
 	Quark [label=Quark fillcolor=grey style=filled]
 	"FoamFixUnofficial-1.12-0.8.1-Anarchy" [label="FoamFixUnofficial-1.12-0.8.1-Anarchy" fillcolor=grey style=filled]
 	AppleSkin [label=AppleSkin fillcolor=lawngreen style=filled]
@@ -195,6 +225,9 @@ A bunch of different tails, ears and wings to enhance your character!"
 	"CoFH Core" [label="CoFH Core" fillcolor=grey style=filled]
 	"Thermal Foundation" [label="Thermal Foundation" fillcolor=grey style=filled]
 	"CodeChicken Lib 1.8.+" [label="CodeChicken Lib 1.8.+" fillcolor=grey style=filled]
+	"p455w0rd's Library" [label="p455w0rd's Library" fillcolor=grey style=filled]
+	"Tesla Core Lib" [label="Tesla Core Lib" fillcolor=grey style=filled]
+	FTBLib [label=FTBLib fillcolor=grey style=filled]
 	AutoRegLib [label=AutoRegLib fillcolor=grey style=filled]
 	ConnectedTexturesMod [label=ConnectedTexturesMod fillcolor=grey style=filled]
 	McJtyLib [label=McJtyLib fillcolor=grey style=filled]
@@ -214,6 +247,25 @@ A bunch of different tails, ears and wings to enhance your character!"
 	"Thermal Dynamics" -> "CoFH Core" [len=3.0 style=solid]
 	"Thermal Dynamics" -> "Thermal Foundation" [len=3.0 style=solid]
 	"Thermal Dynamics" -> "CodeChicken Lib 1.8.+" [len=3.0 style=solid]
+	"Thermal Expansion" -> "CoFH Core" [len=3.0 style=solid]
+	"Thermal Expansion" -> "Thermal Foundation" [len=3.0 style=solid]
+	"Thermal Expansion" -> "CodeChicken Lib 1.8.+" [len=3.0 style=solid]
+	"Thermal Cultivation" -> "CoFH Core" [len=3.0 style=solid]
+	"Thermal Cultivation" -> "Thermal Foundation" [len=3.0 style=solid]
+	Waila [label=Waila fillcolor=dimgray style="filled,dotted"]
+	"/dank/null" -> Waila [len=3.0 style=dashed]
+	"/dank/null" -> "Just Enough Items (JEI)" [len=3.0 style=dashed]
+	"/dank/null" -> "Better Builder's Wands" [len=3.0 style=dashed]
+	"The One Probe" [label="The One Probe" fillcolor=dimgray style="filled,dotted"]
+	"/dank/null" -> "The One Probe" [len=3.0 style=dashed]
+	Hwyla [label=Hwyla fillcolor=dimgray style="filled,dotted"]
+	"/dank/null" -> Hwyla [len=3.0 style=dashed]
+	SwingThroughGrass [label=SwingThroughGrass fillcolor=dimgray style="filled,dotted"]
+	"/dank/null" -> SwingThroughGrass [len=3.0 style=dashed]
+	"/dank/null" -> "CodeChicken Lib 1.8.+" [len=3.0 style=solid]
+	"/dank/null" -> "p455w0rd's Library" [len=3.0 style=solid]
+	"Industrial Foregoing" -> "Tesla Core Lib" [len=3.0 style=solid]
+	"FTB Utilities" -> FTBLib [len=3.0 style=solid]
 	Quark -> AutoRegLib [len=3.0 style=solid]
 	Chisel -> ConnectedTexturesMod [len=3.0 style=solid]
 	"Chisels & Bits" -> "Just Enough Items (JEI)" [len=3.0 style=dashed]
@@ -250,6 +302,12 @@ A bunch of different tails, ears and wings to enhance your character!"
 	"CoFH Core" -> "Redstone Flux" [len=3.0 style=solid]
 	"Thermal Foundation" -> "CoFH Core" [len=3.0 style=solid]
 	"Thermal Foundation" -> "CoFH World" [len=3.0 style=solid]
+	TESLA [label=TESLA fillcolor=dimgray style="filled,dotted"]
+	"p455w0rd's Library" -> TESLA [len=3.0 style=dashed]
+	"p455w0rd's Library" -> "Redstone Flux" [len=3.0 style=dashed]
+	"Tesla Core Lib" -> "Shadowfacts' Forgelin" [len=3.0 style=solid]
+	"Powered Thingies" [label="Powered Thingies" fillcolor=dimgray style="filled,dotted"]
+	"Tesla Core Lib" -> "Powered Thingies" [len=3.0 style=dashed]
 	"The One Probe" [label="The One Probe" fillcolor=dimgray style="filled,dotted"]
 	McJtyLib -> "The One Probe" [len=3.0 style=dashed]
 	McJtyLib -> "Redstone Flux" [len=3.0 style=dashed]

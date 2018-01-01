@@ -24,6 +24,74 @@
         },
         {
             "properties": {
+                "name": "Thermal Expansion",
+                "description": "Thermal Expansion: Expanding Minecraft Thermally! A server-friendly and content-rich blend of magic and technology!\n\nCoFH Core: Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!\n\nThermal Foundation: The Foundation of a Thermally Expanding World!\n\nCodeChicken Lib 1.8.+: Contains various tools to make modding easier.\n\nRedstone Flux: Redstone Flux API - Energy Transfer in Minecraft.\n\nCoFH World: Customizable and powerful world generation!\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/ThermalExpansion-1.12.2-5.3.8.38-universal.jar",
+                    "mods/CoFHCore-1.12.2-4.3.8.29-universal.jar",
+                    "mods/ThermalFoundation-1.12.2-2.3.8.22-universal.jar",
+                    "mods/CodeChickenLib-1.12.2-3.1.5.331-universal.jar",
+                    "mods/RedstoneFlux-1.12-2.0.1.2-universal.jar",
+                    "mods/CoFHWorld-1.12.2-1.1.1.12-universal.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
+                "name": "Thermal Cultivation",
+                "description": "Thermal Cultivation: Thermal gets Agrarian - provides options for farming and related activities!\n\nCoFH Core: Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!\n\nThermal Foundation: The Foundation of a Thermally Expanding World!\n\nRedstone Flux: Redstone Flux API - Energy Transfer in Minecraft.\n\nCoFH World: Customizable and powerful world generation!\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/ThermalCultivation-1.12.2-0.1.3.11-universal.jar",
+                    "mods/CoFHCore-1.12.2-4.3.8.29-universal.jar",
+                    "mods/ThermalFoundation-1.12.2-2.3.8.22-universal.jar",
+                    "mods/RedstoneFlux-1.12-2.0.1.2-universal.jar",
+                    "mods/CoFHWorld-1.12.2-1.1.1.12-universal.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
+                "name": "Industrial Foregoing",
+                "description": "Industrial Foregoing: A new mod based on Minefactory Reloaded Machines\n\nTesla Core Lib: Minecraft library useful in creating power hungry machines\n\nShadowfacts' Forgelin: My fork of Emberwalker's Forgelin, with some sprinkles on top.\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/industrialforegoing-1.12.2-1.6.5-112.jar",
+                    "mods/tesla-core-lib-1.12-1.0.12.jar",
+                    "mods/Forgelin-1.6.0.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
+                "name": "FTB Utilities",
+                "description": "FTB Utilities: FTB Utilities is a mod by LatvianModder. It aims to provide several useful utilities within the FTB Platform ranging from friends list, server configuration utilities, world borders, guide system and many other features...\n\nFTBLib: FTBLib is a library mod that is used for all of our mods. Allows editing some configs ingame, multiple modes within the same pack, etc.\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/FTBUtilities-4.2.4.jar",
+                    "mods/FTBLib-4.2.5.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
                 "name": "Just Enough Items (JEI)",
                 "description": "Just Enough Items (JEI): View Items and Recipes\n\n",
                 "recommendation": null,
