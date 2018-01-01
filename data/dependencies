@@ -147,7 +147,7 @@ Modify all the things, then do it again!"
 		"Tinkers Construct" [color=grey style=filled]
 	}
 	"Better Builder's Wands" [label="Better Builder's Wands" fillcolor=grey style=filled]
-	BiblioCraft [label=BiblioCraft fillcolor=grey style=filled]
+	"BiblioCraft%5Bv2.4.3%5D%5BMC1.12.0%5D" [label="BiblioCraft%5Bv2.4.3%5D%5BMC1.12.0%5D" fillcolor=grey style=filled]
 	"Mouse Tweaks" [label="Mouse Tweaks" fillcolor=lawngreen style=filled]
 	subgraph cluster_Colytra {
 		style=striped

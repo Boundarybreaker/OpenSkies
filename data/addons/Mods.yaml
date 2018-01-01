@@ -7870,6 +7870,9 @@ Futurepack:
 Futurepack Addons:
   api_url: https://cursemeta.nikky.moe/api/addon/283193
   webste_url: https://www.curseforge.com/minecraft/mc-mods/futurepack-addons
+Futurepack Colorization Addon:
+  api_url: https://cursemeta.nikky.moe/api/addon/284235
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/futurepack-colorization-addon
 Futurepack Forestry Addon:
   api_url: https://cursemeta.nikky.moe/api/addon/283684
   webste_url: https://www.curseforge.com/minecraft/mc-mods/futurepack-forestry-addon
@@ -12256,6 +12259,9 @@ Mob Properties:
 Mob Rebirth:
   api_url: https://cursemeta.nikky.moe/api/addon/226212
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-rebirth
+Mob Revenge Mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284482
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-revenge-mod
 Mob Settings:
   api_url: https://cursemeta.nikky.moe/api/addon/247819
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-settings
@@ -19153,6 +19159,9 @@ TenCore:
 Terra:
   api_url: https://cursemeta.nikky.moe/api/addon/280471
   webste_url: https://www.curseforge.com/minecraft/mc-mods/terra
+Terra (Biomes & Stuff):
+  api_url: https://cursemeta.nikky.moe/api/addon/284489
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/terra-biomes-stuff
 TerraArts:
   api_url: https://cursemeta.nikky.moe/api/addon/230410
   webste_url: https://www.curseforge.com/minecraft/mc-mods/terraarts
