@@ -115,6 +115,30 @@ Random collection of blocks. Some of which aren't blocks at all."
 	}
 	JourneyMap [label=JourneyMap fillcolor=grey style=filled]
 	Waystones [label=Waystones fillcolor=grey style=filled]
+	subgraph cluster_Embers {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Embers
+A Dwarven-Themed Magitech Mod"
+		Embers [color=grey style=filled]
+	}
+	subgraph "cluster_Astral Sorcery" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Astral Sorcery
+Magic mod that uses the power of stars and constellations"
+		"Astral Sorcery" [color=grey style=filled]
+	}
+	subgraph "cluster_Wizardry Mod" {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Wizardry Mod
+Delve into spell creation and become a wizard"
+		"Wizardry Mod" [color=grey style=filled]
+	}
+	MagicBooks2 [label=MagicBooks2 fillcolor=grey style=filled]
+	NotEnoughIDs [label=NotEnoughIDs fillcolor=grey style=filled]
+	"Just Enough Resources (JER)" [label="Just Enough Resources (JER)" fillcolor=grey style=filled]
 	subgraph "cluster_Tinkers Construct" {
 		style=striped
 		fillcolor="lightgrey:cyan;0.1"
@@ -166,7 +190,6 @@ A bunch of different tails, ears and wings to enhance your character!"
 
 		FruitPhone [color=grey style=filled]
 	}
-	"Sponge Forge" [label="Sponge Forge" fillcolor=deepskyblue style=filled]
 	"Minecraft Forge" [label="Minecraft Forge" fillcolor=grey style=filled]
 	Baubles [label=Baubles fillcolor=grey style=filled]
 	"CoFH Core" [label="CoFH Core" fillcolor=grey style=filled]
@@ -176,6 +199,8 @@ A bunch of different tails, ears and wings to enhance your character!"
 	ConnectedTexturesMod [label=ConnectedTexturesMod fillcolor=grey style=filled]
 	McJtyLib [label=McJtyLib fillcolor=grey style=filled]
 	OpenModsLib [label=OpenModsLib fillcolor=grey style=filled]
+	"Shadowfacts' Forgelin" [label="Shadowfacts' Forgelin" fillcolor=grey style=filled]
+	LibrarianLib [label=LibrarianLib fillcolor=grey style=filled]
 	Mantle [label=Mantle fillcolor=grey style=filled]
 	"Cyclops Core" [label="Cyclops Core" fillcolor=grey style=filled]
 	"Integrated Dynamics" [label="Integrated Dynamics" fillcolor=grey style=filled]
@@ -211,6 +236,9 @@ A bunch of different tails, ears and wings to enhance your character!"
 	JourneyMap -> "JourneyMap Tools" [len=3.0 style=dashed]
 	"JourneyMap API" [label="JourneyMap API" style=dotted]
 	JourneyMap -> "JourneyMap API" [len=3.0 style=dotted]
+	"Wizardry Mod" -> "Shadowfacts' Forgelin" [len=3.0 style=solid]
+	"Wizardry Mod" -> LibrarianLib [len=3.0 style=solid]
+	"Just Enough Resources (JER)" -> "Just Enough Items (JEI)" [len=3.0 style=solid]
 	"Tinkers Construct" -> Mantle [len=3.0 style=solid]
 	"Integrated Tunnels" -> "Cyclops Core" [len=3.0 style=solid]
 	"Integrated Tunnels" -> "Integrated Dynamics" [len=3.0 style=solid]
@@ -225,6 +253,7 @@ A bunch of different tails, ears and wings to enhance your character!"
 	"The One Probe" [label="The One Probe" fillcolor=dimgray style="filled,dotted"]
 	McJtyLib -> "The One Probe" [len=3.0 style=dashed]
 	McJtyLib -> "Redstone Flux" [len=3.0 style=dashed]
+	LibrarianLib -> "Shadowfacts' Forgelin" [len=3.0 style=solid]
 	"Integrated Dynamics" -> "Cyclops Core" [len=3.0 style=solid]
 	"Integrated Dynamics" -> "Common Capabilities" [len=3.0 style=solid]
 	"Common Capabilities" -> "Cyclops Core" [len=3.0 style=solid]

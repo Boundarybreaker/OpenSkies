@@ -7195,6 +7195,9 @@ Felling:
 Female Creepers:
   api_url: https://cursemeta.nikky.moe/api/addon/223804
   webste_url: https://www.curseforge.com/minecraft/mc-mods/female-creepers
+Female Creepers Mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284478
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/female-creepers-mod
 Fence Jumper:
   api_url: https://cursemeta.nikky.moe/api/addon/254652
   webste_url: https://www.curseforge.com/minecraft/mc-mods/fence-jumper
@@ -12625,6 +12628,9 @@ More Items:
 More Lanterns:
   api_url: https://cursemeta.nikky.moe/api/addon/69165
   webste_url: https://www.curseforge.com/minecraft/mc-mods/more-lanterns
+More Loot Stuff:
+  api_url: https://cursemeta.nikky.moe/api/addon/284472
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/more-loot-stuff
 More Loot Tables:
   api_url: https://cursemeta.nikky.moe/api/addon/253887
   webste_url: https://www.curseforge.com/minecraft/mc-mods/more-loot-tables
@@ -13138,6 +13144,9 @@ N1ch0l2s' 1.8 Mods All In One Mod:
 N1ch0l2s' Ore Recipes and more Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/279407
   webste_url: https://www.curseforge.com/minecraft/mc-mods/n1ch0l2s-ore-recipes-and-more-mod
+NBT Peripheral:
+  api_url: https://cursemeta.nikky.moe/api/addon/284477
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/nbt-peripheral
 NBT Tooltip:
   api_url: https://cursemeta.nikky.moe/api/addon/274816
   webste_url: https://www.curseforge.com/minecraft/mc-mods/nbt-tooltip

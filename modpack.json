@@ -173,6 +173,50 @@
         },
         {
             "properties": {
+                "name": "Embers",
+                "description": "Embers: A Dwarven-Themed Magitech Mod\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/embers-0.230.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
+                "name": "Astral Sorcery",
+                "description": "Astral Sorcery: Magic mod that uses the power of stars and constellations\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/astralsorcery-1.12.2-1.8.4.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
+                "name": "Wizardry Mod",
+                "description": "Wizardry Mod: Delve into spell creation and become a wizard\n\nShadowfacts' Forgelin: My fork of Emberwalker's Forgelin, with some sprinkles on top.\n\nLibrarianLib: A library that aims to make modding easy.\n\n",
+                "recommendation": null,
+                "selected": true
+            },
+            "files": {
+                "include": [
+                    "mods/wizardry-0.6.2.jar",
+                    "mods/Forgelin-1.6.0.jar",
+                    "mods/librarianlib-1.12-4.3.jar"
+                ],
+                "exclude": []
+            }
+        },
+        {
+            "properties": {
                 "name": "Tinkers Construct",
                 "description": "Tinkers Construct: Modify all the things, then do it again!\n\nMantle: Shared code for Forge mods\n\n",
                 "recommendation": null,

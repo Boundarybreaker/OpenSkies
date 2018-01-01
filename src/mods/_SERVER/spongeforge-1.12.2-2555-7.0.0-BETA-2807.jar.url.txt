@@ -1,1 +1,0 @@
-https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2555-7.0.0-BETA-2807/spongeforge-1.12.2-2555-7.0.0-BETA-2807.jar
