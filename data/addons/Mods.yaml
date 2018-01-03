@@ -2809,6 +2809,9 @@ Calendar API:
 Caliper:
   api_url: https://cursemeta.nikky.moe/api/addon/266824
   webste_url: https://www.curseforge.com/minecraft/mc-mods/caliper
+Call to Battle 2 - Authentic World War 2 Experience:
+  api_url: https://cursemeta.nikky.moe/api/addon/284538
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/call-to-battle-2-authentic-world-war-2-experience
 Call to Battle-The WWII Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/248770
   webste_url: https://www.curseforge.com/minecraft/mc-mods/call-to-battle-the-wwii-mod
@@ -3028,6 +3031,21 @@ ChargePads:
 Charset:
   api_url: https://cursemeta.nikky.moe/api/addon/246634
   webste_url: https://www.curseforge.com/minecraft/mc-mods/charset
+Charset Audio:
+  api_url: https://cursemeta.nikky.moe/api/addon/284580
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-audio
+Charset Lib:
+  api_url: https://cursemeta.nikky.moe/api/addon/284523
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-lib
+Charset Storage - Barrels:
+  api_url: https://cursemeta.nikky.moe/api/addon/284529
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-storage-barrels
+Charset Storage - Tanks:
+  api_url: https://cursemeta.nikky.moe/api/addon/284530
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-storage-tanks
+Charset Transport - Carts and Rails:
+  api_url: https://cursemeta.nikky.moe/api/addon/284581
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-transport-carts-and-rails
 Chat Bomb:
   api_url: https://cursemeta.nikky.moe/api/addon/262301
   webste_url: https://www.curseforge.com/minecraft/mc-mods/chat-bomb
@@ -4699,6 +4717,9 @@ CustomNPC Tweaks:
 CustomOreGen:
   api_url: https://cursemeta.nikky.moe/api/addon/237130
   webste_url: https://www.curseforge.com/minecraft/mc-mods/customoregen
+CustomPort:
+  api_url: https://cursemeta.nikky.moe/api/addon/284553
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/customport
 CustomSelectionBox:
   api_url: https://cursemeta.nikky.moe/api/addon/229349
   webste_url: https://www.curseforge.com/minecraft/mc-mods/customselectionbox
@@ -5074,6 +5095,9 @@ Default World Generator (port):
 DefaultSkin:
   api_url: https://cursemeta.nikky.moe/api/addon/251241
   webste_url: https://www.curseforge.com/minecraft/mc-mods/defaultskin
+Defense Frogs:
+  api_url: https://cursemeta.nikky.moe/api/addon/284615
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/frog-mod
 Defier:
   api_url: https://cursemeta.nikky.moe/api/addon/283622
   webste_url: https://www.curseforge.com/minecraft/mc-mods/defier
@@ -7555,6 +7579,9 @@ ForFriendsMod:
 ForageCraft:
   api_url: https://cursemeta.nikky.moe/api/addon/241444
   webste_url: https://www.curseforge.com/minecraft/mc-mods/foragecraft
+'Forbidden Fruit: Tide Pods':
+  api_url: https://cursemeta.nikky.moe/api/addon/284642
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/forbidden-fruit-tide-pods
 Forbidden Industry:
   api_url: https://cursemeta.nikky.moe/api/addon/241234
   webste_url: https://www.curseforge.com/minecraft/mc-mods/forbidden-industry
@@ -10783,6 +10810,9 @@ LiveSpectator:
 LiveWithoutMobs:
   api_url: https://cursemeta.nikky.moe/api/addon/245384
   webste_url: https://www.curseforge.com/minecraft/mc-mods/livewithoutmobs
+Living Block Monsters Reborn:
+  api_url: https://cursemeta.nikky.moe/api/addon/284626
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/living-block-monsters-reborn
 'Living Deserts ':
   api_url: https://cursemeta.nikky.moe/api/addon/241237
   webste_url: https://www.curseforge.com/minecraft/mc-mods/living-deserts
@@ -11005,6 +11035,9 @@ MC Wiki Blueprint Export:
 MCConfig:
   api_url: https://cursemeta.nikky.moe/api/addon/277530
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mcconfig
+MCDevDate:
+  api_url: https://cursemeta.nikky.moe/api/addon/284609
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mcdevdate
 MCEconomy2:
   api_url: https://cursemeta.nikky.moe/api/addon/242484
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mceconomy2
@@ -11023,6 +11056,9 @@ MCI Craft:
 MCJediYoda Tweaks:
   api_url: https://cursemeta.nikky.moe/api/addon/268138
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mcjediyoda-tweaks
+MCJoypad:
+  api_url: https://cursemeta.nikky.moe/api/addon/284589
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/joypad-splitscreen-mod-unofficial
 MCLink:
   api_url: https://cursemeta.nikky.moe/api/addon/281020
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mclink
@@ -12205,6 +12241,9 @@ Mob Blocker:
 Mob Capper:
   api_url: https://cursemeta.nikky.moe/api/addon/239346
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-capper
+Mob Control Wands:
+  api_url: https://cursemeta.nikky.moe/api/addon/284542
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-control-wands
 Mob Controller:
   api_url: https://cursemeta.nikky.moe/api/addon/283935
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-controller
@@ -12685,7 +12724,7 @@ More Pillars:
 More Pistons Jiraiyah Version:
   api_url: https://cursemeta.nikky.moe/api/addon/224220
   webste_url: https://www.curseforge.com/minecraft/mc-mods/more-pistons-jiraiyah-version
-More Planet Extras:
+More Planets Extras:
   api_url: https://cursemeta.nikky.moe/api/addon/266184
   webste_url: https://www.curseforge.com/minecraft/mc-mods/more-planet-extras
 More Plates:
@@ -13356,7 +13395,7 @@ Nether Tweaks:
   webste_url: https://www.curseforge.com/minecraft/mc-mods/nether-tweaks
 Nether Utils:
   api_url: https://cursemeta.nikky.moe/api/addon/278179
-  webste_url: https://www.curseforge.com/minecraft/mc-mods/nether-the-farm
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/netherutils
 NetherBound:
   api_url: https://cursemeta.nikky.moe/api/addon/250359
   webste_url: https://www.curseforge.com/minecraft/mc-mods/netherbound
@@ -13393,6 +13432,9 @@ Network:
 Networks Manager:
   api_url: https://cursemeta.nikky.moe/api/addon/242197
   webste_url: https://www.curseforge.com/minecraft/mc-mods/networks-manager
+Neuro Control:
+  api_url: https://cursemeta.nikky.moe/api/addon/229835
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/neuro-control
 Never Enough Candy:
   api_url: https://cursemeta.nikky.moe/api/addon/236865
   webste_url: https://www.curseforge.com/minecraft/mc-mods/never-enough-candy
@@ -13837,9 +13879,9 @@ Obscurity Tweaks:
 ObsidiPlates:
   api_url: https://cursemeta.nikky.moe/api/addon/59769
   webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidiplates
-Obsidian API:
+Obsidian Animation Suite:
   api_url: https://cursemeta.nikky.moe/api/addon/278440
-  webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidian-api
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidian-suite
 Obsidian Armor and Tools:
   api_url: https://cursemeta.nikky.moe/api/addon/260656
   webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidian-armor-and-tools
@@ -13855,6 +13897,9 @@ Obsidian Buster:
 Obsidian Items by CoolioSauce:
   api_url: https://cursemeta.nikky.moe/api/addon/253825
   webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidian-items-by-cooliosauce
+Obsidian Ore:
+  api_url: https://cursemeta.nikky.moe/api/addon/284652
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidian-ore
 Obsidian Pack+:
   api_url: https://cursemeta.nikky.moe/api/addon/262877
   webste_url: https://www.curseforge.com/minecraft/mc-mods/obsidian-pack
@@ -14071,6 +14116,9 @@ OpenSensors:
 OpenTransport:
   api_url: https://cursemeta.nikky.moe/api/addon/238471
   webste_url: https://www.curseforge.com/minecraft/mc-mods/opentransport
+OpenableWindows:
+  api_url: https://cursemeta.nikky.moe/api/addon/284566
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/openablewindows
 Operation Protect:
   api_url: https://cursemeta.nikky.moe/api/addon/272265
   webste_url: https://www.curseforge.com/minecraft/mc-mods/op-protect-mod
@@ -15292,6 +15340,9 @@ Programming 8x9Craft:
 Progression:
   api_url: https://cursemeta.nikky.moe/api/addon/229495
   webste_url: https://www.curseforge.com/minecraft/mc-mods/progression
+Progression Tweaks:
+  api_url: https://cursemeta.nikky.moe/api/addon/284648
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/progression-tweaks
 Progressive Automation:
   api_url: https://cursemeta.nikky.moe/api/addon/220606
   webste_url: https://www.curseforge.com/minecraft/mc-mods/progressive-automation-early-miner
@@ -17872,6 +17923,9 @@ Smoke Filter:
 SmoothBedrock:
   api_url: https://cursemeta.nikky.moe/api/addon/66908
   webste_url: https://www.curseforge.com/minecraft/mc-mods/smoothbedrock
+Smusd_Uddu:
+  api_url: https://cursemeta.nikky.moe/api/addon/284591
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/smusduddu-mod
 Snad:
   api_url: https://cursemeta.nikky.moe/api/addon/241344
   webste_url: https://www.curseforge.com/minecraft/mc-mods/snad
@@ -18223,6 +18277,9 @@ Sproing!:
 Sprout Patcher:
   api_url: https://cursemeta.nikky.moe/api/addon/273281
   webste_url: https://www.curseforge.com/minecraft/mc-mods/sprout-patcher
+Spyeedy's Shop App:
+  api_url: https://cursemeta.nikky.moe/api/addon/284579
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/spyeedys-shop-app
 Squake:
   api_url: https://cursemeta.nikky.moe/api/addon/223360
   webste_url: https://www.curseforge.com/minecraft/mc-mods/squake
@@ -18622,6 +18679,9 @@ SupG NL's Crazy Mod:
 Super (cheating) Armor:
   api_url: https://cursemeta.nikky.moe/api/addon/263706
   webste_url: https://www.curseforge.com/minecraft/mc-mods/super-cheating-armor
+Super Bacon Mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/273306
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/super-bacon-mod
 Super Circuit Maker:
   api_url: https://cursemeta.nikky.moe/api/addon/248619
   webste_url: https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker
@@ -21625,6 +21685,9 @@ Warrior's Path:
 Wasteland Meteors:
   api_url: https://cursemeta.nikky.moe/api/addon/256895
   webste_url: https://www.curseforge.com/minecraft/mc-mods/wasteland-meteors
+Wasteland Reborn:
+  api_url: https://cursemeta.nikky.moe/api/addon/284582
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/wasteland-reborn
 Wastelands Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/237985
   webste_url: https://www.curseforge.com/minecraft/mc-mods/wastelands-mod
@@ -22105,6 +22168,9 @@ WorldProtector:
 WorldStateCheckpoints:
   api_url: https://cursemeta.nikky.moe/api/addon/225570
   webste_url: https://www.curseforge.com/minecraft/mc-mods/worldstatecheckpoints
+Worldgeneration Profiler:
+  api_url: https://cursemeta.nikky.moe/api/addon/284576
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/worldgeneration-profiler
 Wormholes:
   api_url: https://cursemeta.nikky.moe/api/addon/238369
   webste_url: https://www.curseforge.com/minecraft/mc-mods/wormholes
@@ -22723,6 +22789,9 @@ isDev Core:
 isilverskeleton's Craftable Command Block Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/270040
   webste_url: https://www.curseforge.com/minecraft/mc-mods/isilverskeletons-craftable-command-block-mod
+jakojaannos-lib:
+  api_url: https://cursemeta.nikky.moe/api/addon/284549
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/jakojaannos-lib
 jdawg3636's Bleach Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/256542
   webste_url: https://www.curseforge.com/minecraft/mc-mods/jdawg3636s-bleach-mod

@@ -80,6 +80,7 @@ View Items and Recipes"
 		"Just Enough Items (JEI)" [color=grey style=filled]
 	}
 	"Compact Machines" [label="Compact Machines" fillcolor=grey style=filled]
+	"Extra Utilities" [label="Extra Utilities" fillcolor=grey style=filled]
 	subgraph cluster_NoNausea {
 		style=striped
 		fillcolor="lightgrey:green;0.1:cyan;0.1"
@@ -151,6 +152,13 @@ Random collection of blocks. Some of which aren't blocks at all."
 		label="Embers
 A Dwarven-Themed Magitech Mod"
 		Embers [color=grey style=filled]
+	}
+	subgraph cluster_Roots {
+		style=striped
+		fillcolor="lightgrey:cyan;0.1"
+		label="Roots
+A druidic nature-magic mod."
+		Roots [color=grey style=filled]
 	}
 	subgraph "cluster_Astral Sorcery" {
 		style=striped
