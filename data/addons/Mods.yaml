@@ -5515,6 +5515,9 @@ DragonRealm:
 DragonTech:
   api_url: https://cursemeta.nikky.moe/api/addon/241726
   webste_url: https://www.curseforge.com/minecraft/mc-mods/dragontech
+DragonTorango:
+  api_url: https://cursemeta.nikky.moe/api/addon/283736
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/dragontorango
 Dragons Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/226483
   webste_url: https://www.curseforge.com/minecraft/mc-mods/dragons-mod
@@ -6418,6 +6421,9 @@ Epic Siege Mod:
 Epic Swords Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/230209
   webste_url: https://www.curseforge.com/minecraft/mc-mods/epic-swords-mod
+EpicFoods:
+  api_url: https://cursemeta.nikky.moe/api/addon/284682
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/epic-foods
 EpicQuest:
   api_url: https://cursemeta.nikky.moe/api/addon/229995
   webste_url: https://www.curseforge.com/minecraft/mc-mods/epicquest
