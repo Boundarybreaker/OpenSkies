@@ -9859,6 +9859,9 @@ JJ Meteor:
 JJ Races:
   api_url: https://cursemeta.nikky.moe/api/addon/281490
   webste_url: https://www.curseforge.com/minecraft/mc-mods/jj-races
+JJ Weapon Config:
+  api_url: https://cursemeta.nikky.moe/api/addon/284691
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/jj-weapon-config
 JMOD - The JavaScript MOD Loader:
   api_url: https://cursemeta.nikky.moe/api/addon/242953
   webste_url: https://www.curseforge.com/minecraft/mc-mods/jmod-the-javascript-mod-loader
@@ -10174,6 +10177,9 @@ JustEnoughTooltips:
 JustNuggets:
   api_url: https://cursemeta.nikky.moe/api/addon/268956
   webste_url: https://www.curseforge.com/minecraft/mc-mods/justnuggets
+JustOwls:
+  api_url: https://cursemeta.nikky.moe/api/addon/284641
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/justowls
 JustTheTips:
   api_url: https://cursemeta.nikky.moe/api/addon/275356
   webste_url: https://www.curseforge.com/minecraft/mc-mods/justthetips
@@ -16711,6 +16717,9 @@ Rustic:
 Ryse Son Of Rome Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/75952
   webste_url: https://www.curseforge.com/minecraft/mc-mods/ryse-son-rome-mod
+S.T.E.M:
+  api_url: https://cursemeta.nikky.moe/api/addon/251743
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/s-t-e-m
 SAO Crystals:
   api_url: https://cursemeta.nikky.moe/api/addon/238154
   webste_url: https://www.curseforge.com/minecraft/mc-mods/sao-crystals

@@ -32,202 +32,52 @@ digraph {
 		style=filled
 	}
 	Botania [label=Botania fillcolor=grey style=filled]
-	subgraph "cluster_Thermal Dynamics" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Thermal Dynamics
-Thermal gets Dynamic! Adds ducts - transportation for Redstone Flux, Fluids, and Items!"
-		"Thermal Dynamics" [color=grey style=filled]
-	}
-	subgraph "cluster_Thermal Expansion" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Thermal Expansion
-Expanding Minecraft Thermally! A server-friendly and content-rich blend of magic and technology!"
-		"Thermal Expansion" [color=grey style=filled]
-	}
-	subgraph "cluster_Thermal Cultivation" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Thermal Cultivation
-Thermal gets Agrarian - provides options for farming and related activities!"
-		"Thermal Cultivation" [color=grey style=filled]
-	}
+	"Thermal Dynamics" [label="Thermal Dynamics" fillcolor=grey style=filled]
+	"Thermal Expansion" [label="Thermal Expansion" fillcolor=grey style=filled]
+	"Thermal Cultivation" [label="Thermal Cultivation" fillcolor=grey style=filled]
 	"/dank/null" [label="/dank/null" fillcolor=grey style=filled]
-	subgraph "cluster_Industrial Foregoing" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Industrial Foregoing
-A new mod based on Minefactory Reloaded Machines"
-		"Industrial Foregoing" [color=grey style=filled]
-	}
+	"Industrial Foregoing" [label="Industrial Foregoing" fillcolor=grey style=filled]
 	"Mod Name Tooltip" [label="Mod Name Tooltip" fillcolor=grey style=filled]
-	subgraph "cluster_FTB Utilities" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="FTB Utilities
-FTB Utilities is a mod by LatvianModder. It aims to provide several useful utilities within the FTB Platform ranging from friends list, server configuration utilities, world borders, guide system and many other features..."
-		"FTB Utilities" [color=grey style=filled]
-	}
+	"FTB Utilities" [label="FTB Utilities" fillcolor=grey style=filled]
 	Quark [label=Quark fillcolor=grey style=filled]
 	"FoamFixUnofficial-1.12-0.8.1-Anarchy" [label="FoamFixUnofficial-1.12-0.8.1-Anarchy" fillcolor=grey style=filled]
 	AppleSkin [label=AppleSkin fillcolor=lawngreen style=filled]
-	subgraph "cluster_Just Enough Items (JEI)" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Just Enough Items (JEI)
-View Items and Recipes"
-		"Just Enough Items (JEI)" [color=grey style=filled]
-	}
+	"Just Enough Items (JEI)" [label="Just Enough Items (JEI)" fillcolor=grey style=filled]
 	"Compact Machines" [label="Compact Machines" fillcolor=grey style=filled]
 	"Extra Utilities" [label="Extra Utilities" fillcolor=grey style=filled]
-	subgraph cluster_NoNausea {
-		style=striped
-		fillcolor="lightgrey:green;0.1:cyan;0.1"
-		label="NoNausea
-Replace the vanilla nausea effect with something less headache inducing"
-		NoNausea [color=lawngreen style=filled]
-	}
-	subgraph cluster_OpenComputers {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="OpenComputers
-Modular, persistent, programmable computers and robots."
-		OpenComputers [color=grey style=filled]
-	}
-	subgraph "cluster_Actually Additions" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Actually Additions
-A bunch of awesome gadgets and things! But it's way more than just that!"
-		"Actually Additions" [color=grey style=filled]
-	}
-	subgraph cluster_Chisel {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Chisel
-A builder's best friend."
-		Chisel [color=grey style=filled]
-	}
-	subgraph "cluster_Chisels & Bits" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Chisels & Bits
-Create endless custom decorations using in game materials."
-		"Chisels & Bits" [color=grey style=filled]
-	}
-	subgraph cluster_RFTools {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="RFTools
-RFTools, blocks and items to help with Redflux (dimension builder, crafter, monitor, scanner, ...)"
-		RFTools [color=grey style=filled]
-	}
-	subgraph "cluster_RFTools Dimensions" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="RFTools Dimensions
-This is an addon mod for RFTools which handles creation of dimensions"
-		"RFTools Dimensions" [color=grey style=filled]
-	}
-	subgraph "cluster_Immersive Engineering" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Immersive Engineering
-A retro-futuristic tech mod!"
-		"Immersive Engineering" [color=grey style=filled]
-	}
-	subgraph cluster_OpenBlocks {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="OpenBlocks
-Random collection of blocks. Some of which aren't blocks at all."
-		OpenBlocks [color=grey style=filled]
-	}
+	NoNausea [label=NoNausea fillcolor=lawngreen style=filled]
+	OpenComputers [label=OpenComputers fillcolor=grey style=filled]
+	"Actually Additions" [label="Actually Additions" fillcolor=grey style=filled]
+	Chisel [label=Chisel fillcolor=grey style=filled]
+	"Chisels & Bits" [label="Chisels & Bits" fillcolor=grey style=filled]
+	RFTools [label=RFTools fillcolor=grey style=filled]
+	"RFTools Dimensions" [label="RFTools Dimensions" fillcolor=grey style=filled]
+	"Immersive Engineering" [label="Immersive Engineering" fillcolor=grey style=filled]
+	OpenBlocks [label=OpenBlocks fillcolor=grey style=filled]
 	JourneyMap [label=JourneyMap fillcolor=grey style=filled]
 	Waystones [label=Waystones fillcolor=grey style=filled]
-	subgraph cluster_Embers {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Embers
-A Dwarven-Themed Magitech Mod"
-		Embers [color=grey style=filled]
-	}
-	subgraph cluster_Roots {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Roots
-A druidic nature-magic mod."
-		Roots [color=grey style=filled]
-	}
-	subgraph "cluster_Astral Sorcery" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Astral Sorcery
-Magic mod that uses the power of stars and constellations"
-		"Astral Sorcery" [color=grey style=filled]
-	}
-	subgraph "cluster_Wizardry Mod" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Wizardry Mod
-Delve into spell creation and become a wizard"
-		"Wizardry Mod" [color=grey style=filled]
-	}
+	Embers [label=Embers fillcolor=grey style=filled]
+	Roots [label=Roots fillcolor=grey style=filled]
+	"Astral Sorcery" [label="Astral Sorcery" fillcolor=grey style=filled]
+	"Wizardry Mod" [label="Wizardry Mod" fillcolor=grey style=filled]
 	MagicBooks2 [label=MagicBooks2 fillcolor=grey style=filled]
 	NotEnoughIDs [label=NotEnoughIDs fillcolor=grey style=filled]
 	"Just Enough Resources (JER)" [label="Just Enough Resources (JER)" fillcolor=grey style=filled]
-	subgraph "cluster_Tinkers Construct" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Tinkers Construct
-Modify all the things, then do it again!"
-		"Tinkers Construct" [color=grey style=filled]
-	}
+	"Tinkers Construct" [label="Tinkers Construct" fillcolor=grey style=filled]
 	"Better Builder's Wands" [label="Better Builder's Wands" fillcolor=grey style=filled]
 	"BiblioCraft%5Bv2.4.3%5D%5BMC1.12.0%5D" [label="BiblioCraft%5Bv2.4.3%5D%5BMC1.12.0%5D" fillcolor=grey style=filled]
 	"Mouse Tweaks" [label="Mouse Tweaks" fillcolor=lawngreen style=filled]
-	subgraph cluster_Colytra {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Colytra
-Allows attachment of elytras to chestplates and includes an elytra bauble for Baubles"
-		Colytra [color=grey style=filled]
-	}
-	subgraph "cluster_Refined Storage" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Refined Storage
-An elegant solution to your hoarding problem."
-		"Refined Storage" [color=grey style=filled]
-	}
-	subgraph "cluster_Integrated Tunnels" {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Integrated Tunnels
-Transfer other stuff over Integrated Dynamics networks"
-		"Integrated Tunnels" [color=grey style=filled]
-	}
-	subgraph cluster_Tails {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label="Tails
-A bunch of different tails, ears and wings to enhance your character!"
-		Tails [color=grey style=filled]
-	}
+	Colytra [label=Colytra fillcolor=grey style=filled]
+	"Refined Storage" [label="Refined Storage" fillcolor=grey style=filled]
+	"Integrated Tunnels" [label="Integrated Tunnels" fillcolor=grey style=filled]
+	Tails [label=Tails fillcolor=grey style=filled]
 	Charset [label=Charset fillcolor=grey style=filled]
 	Thermionics [label=Thermionics fillcolor=grey style=filled]
 	Smores [label=Smores fillcolor=grey style=filled]
 	"Better Boilers" [label="Better Boilers" fillcolor=grey style=filled]
 	Architecturecraft [label=Architecturecraft fillcolor=grey style=filled]
 	ProbeDataProvider [label=ProbeDataProvider fillcolor=grey style=filled]
-	subgraph cluster_FruitPhone {
-		style=striped
-		fillcolor="lightgrey:cyan;0.1"
-		label=FruitPhone
-
-		FruitPhone [color=grey style=filled]
-	}
+	FruitPhone [label=FruitPhone fillcolor=grey style=filled]
 	"Minecraft Forge" [label="Minecraft Forge" fillcolor=grey style=filled]
 	Baubles [label=Baubles fillcolor=grey style=filled]
 	"CoFH Core" [label="CoFH Core" fillcolor=grey style=filled]
