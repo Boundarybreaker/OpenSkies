@@ -1,13 +1,11 @@
 {
     "name": "Open Skies",
-    "title": "Explore the Open Skies!",
+    "title": null,
     "gameVersion": "1.12.2",
     "features": [],
     "userFiles": {
         "include": [
-            "options.txt",
-            "optionsshaders.txt"
-            "config/charset/modules.cfg"
+            "test"
         ],
         "exclude": []
     },

@@ -262,6 +262,9 @@ Additional Loot Tables:
 Additional Ore and Ingots:
   api_url: https://cursemeta.nikky.moe/api/addon/223879
   webste_url: https://www.curseforge.com/minecraft/mc-mods/additional-ore-and-ingots
+Additional Ores:
+  api_url: https://cursemeta.nikky.moe/api/addon/285134
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/additional-ores
 Additional Recipes:
   api_url: https://cursemeta.nikky.moe/api/addon/248334
   webste_url: https://www.curseforge.com/minecraft/mc-mods/additional-recipes
@@ -550,6 +553,9 @@ Alex's Things:
 AlexIILLib:
   api_url: https://cursemeta.nikky.moe/api/addon/229301
   webste_url: https://www.curseforge.com/minecraft/mc-mods/alexiillib
+Alfheim:
+  api_url: https://cursemeta.nikky.moe/api/addon/284811
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/alfheim
 AliensVsPredator:
   api_url: https://cursemeta.nikky.moe/api/addon/221641
   webste_url: https://www.curseforge.com/minecraft/mc-mods/aliensvspredator
@@ -607,6 +613,9 @@ Alternate Terrain Generation:
 AlternateStart:
   api_url: https://cursemeta.nikky.moe/api/addon/271435
   webste_url: https://www.curseforge.com/minecraft/mc-mods/alternatestart
+Alternating Flux:
+  api_url: https://cursemeta.nikky.moe/api/addon/285135
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/alternating-flux
 Alternative Recipe:
   api_url: https://cursemeta.nikky.moe/api/addon/235341
   webste_url: https://www.curseforge.com/minecraft/mc-mods/alternative-recipe
@@ -682,6 +691,9 @@ Ancient Warfare 2:
 Anddros Extreme Tools Mods:
   api_url: https://cursemeta.nikky.moe/api/addon/228100
   webste_url: https://www.curseforge.com/minecraft/mc-mods/anddros-extreme-tools-mods
+Angel Ring For Bauble:
+  api_url: https://cursemeta.nikky.moe/api/addon/285070
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/angel-ring-for-bauble
 Angel Ring To Bauble:
   api_url: https://cursemeta.nikky.moe/api/addon/256224
   webste_url: https://www.curseforge.com/minecraft/mc-mods/angel-ring-to-bauble
@@ -802,6 +814,9 @@ Aperture:
 Apiary and Honey:
   api_url: https://cursemeta.nikky.moe/api/addon/268975
   webste_url: https://www.curseforge.com/minecraft/mc-mods/apiary-and-honey
+Apocalypse Dimension:
+  api_url: https://cursemeta.nikky.moe/api/addon/284842
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/apocalypse-dimension
 Apocalypse Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/229199
   webste_url: https://www.curseforge.com/minecraft/mc-mods/apocalypse-mod
@@ -1243,6 +1258,9 @@ AutoBomb:
 AutoCrafter2000:
   api_url: https://cursemeta.nikky.moe/api/addon/223204
   webste_url: https://www.curseforge.com/minecraft/mc-mods/autocrafter2000
+AutoDeathLeaderboard:
+  api_url: https://cursemeta.nikky.moe/api/addon/284957
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/adl
 AutoJoin-Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/243476
   webste_url: https://www.curseforge.com/minecraft/mc-mods/autojoin-mod
@@ -1570,6 +1588,9 @@ Basic Ingame Gui:
 Basic Ingredients:
   api_url: https://cursemeta.nikky.moe/api/addon/235227
   webste_url: https://www.curseforge.com/minecraft/mc-mods/basic-ingredients
+Basic Logic:
+  api_url: https://cursemeta.nikky.moe/api/addon/282537
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/logic
 BasseBombeCraft:
   api_url: https://cursemeta.nikky.moe/api/addon/241374
   webste_url: https://www.curseforge.com/minecraft/mc-mods/bassebombecraft
@@ -1798,6 +1819,9 @@ Better Glass Drops v1.1 for 1.8:
 Better Golden Items 1.8:
   api_url: https://cursemeta.nikky.moe/api/addon/241937
   webste_url: https://www.curseforge.com/minecraft/mc-mods/better-golden-items-1-8
+Better HUD 'Plenty o Info' Mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284192
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/better-hud-plenty-o-info-mod
 Better Horse Hud:
   api_url: https://cursemeta.nikky.moe/api/addon/223091
   webste_url: https://www.curseforge.com/minecraft/mc-mods/better-horse-hud
@@ -1852,6 +1876,9 @@ Better Questing - Standard Expansion:
 Better Questing Triggerer:
   api_url: https://cursemeta.nikky.moe/api/addon/250193
   webste_url: https://www.curseforge.com/minecraft/mc-mods/better-questing-triggerer
+Better Railroads:
+  api_url: https://cursemeta.nikky.moe/api/addon/285047
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/better-railroads
 Better Recipes:
   api_url: https://cursemeta.nikky.moe/api/addon/61874
   webste_url: https://mods.curse.com/mc-mods/minecraft/better-recipes
@@ -2194,7 +2221,7 @@ BladeCraft:
 Blank Mega Mineral Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/234995
   webste_url: https://www.curseforge.com/minecraft/mc-mods/blank-mega-mineral-mod
-Blank Planet:
+BlankPlanet:
   api_url: https://cursemeta.nikky.moe/api/addon/248412
   webste_url: https://www.curseforge.com/minecraft/mc-mods/blank-planet
 BlastBlock 2:
@@ -2416,6 +2443,9 @@ Bonsai Man Mod:
 Bonsai Trees:
   api_url: https://cursemeta.nikky.moe/api/addon/278993
   webste_url: https://www.curseforge.com/minecraft/mc-mods/bonsai-trees
+Book Display:
+  api_url: https://cursemeta.nikky.moe/api/addon/284899
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/book-display
 Book Effects [Manu-Anthony Thanks]:
   api_url: https://cursemeta.nikky.moe/api/addon/245607
   webste_url: https://www.curseforge.com/minecraft/mc-mods/book-effects-manu-anthony-thanks
@@ -2737,9 +2767,6 @@ CT Mortar:
 CT TinyCoal:
   api_url: https://cursemeta.nikky.moe/api/addon/280766
   webste_url: https://www.curseforge.com/minecraft/mc-mods/ct-tinycoal
-CT Watercan:
-  api_url: https://cursemeta.nikky.moe/api/addon/280620
-  webste_url: https://www.curseforge.com/minecraft/mc-mods/ct-watercan
 CTD Core:
   api_url: https://cursemeta.nikky.moe/api/addon/258186
   webste_url: https://www.curseforge.com/minecraft/mc-mods/ctd-core
@@ -2803,6 +2830,9 @@ Calculator:
 Calculator GUI:
   api_url: https://cursemeta.nikky.moe/api/addon/245986
   webste_url: https://www.curseforge.com/minecraft/mc-mods/calculator-gui
+CalculatorPlus:
+  api_url: https://cursemeta.nikky.moe/api/addon/285005
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/calculatorplus
 Calendar API:
   api_url: https://cursemeta.nikky.moe/api/addon/241515
   webste_url: https://www.curseforge.com/minecraft/mc-mods/calendar-api
@@ -2884,6 +2914,9 @@ Card Magic Mod:
 Cards vs. Crafters:
   api_url: https://cursemeta.nikky.moe/api/addon/228603
   webste_url: https://www.curseforge.com/minecraft/mc-mods/cards-vs-crafters
+Career Bees:
+  api_url: https://cursemeta.nikky.moe/api/addon/281791
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/career-bees
 Carnival Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/243019
   webste_url: https://www.curseforge.com/minecraft/mc-mods/carnival-mod
@@ -2971,6 +3004,9 @@ CazzarCoreLib:
 CedKilleur's EndCake:
   api_url: https://cursemeta.nikky.moe/api/addon/283136
   webste_url: https://www.curseforge.com/minecraft/mc-mods/cedkilleurs-endcake
+CedKilleur's Fidget Spinner:
+  api_url: https://cursemeta.nikky.moe/api/addon/285067
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/cedkilleurs-fidget-spinner
 Celestial Craft:
   api_url: https://cursemeta.nikky.moe/api/addon/235297
   webste_url: https://www.curseforge.com/minecraft/mc-mods/celestial-craft
@@ -3028,7 +3064,7 @@ Charge Pads:
 ChargePads:
   api_url: https://cursemeta.nikky.moe/api/addon/60793
   webste_url: https://www.curseforge.com/minecraft/mc-mods/chargepads
-Charset:
+Charset (1.10.x):
   api_url: https://cursemeta.nikky.moe/api/addon/246634
   webste_url: https://www.curseforge.com/minecraft/mc-mods/charset
 Charset Audio:
@@ -3151,6 +3187,9 @@ ChestShop Helper:
 Chicken Chins:
   api_url: https://cursemeta.nikky.moe/api/addon/253626
   webste_url: https://www.curseforge.com/minecraft/mc-mods/chicken-chins
+Chicken Chunk Patcher:
+  api_url: https://cursemeta.nikky.moe/api/addon/285063
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/chicken-chunk-patcher
 Chicken Chunks 1.8.+:
   api_url: https://cursemeta.nikky.moe/api/addon/243883
   webste_url: https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8
@@ -4333,6 +4372,9 @@ CraftingZ:
 CraftsHeads:
   api_url: https://cursemeta.nikky.moe/api/addon/235169
   webste_url: https://www.curseforge.com/minecraft/mc-mods/craftsheads
+Cramming Pressure Plate:
+  api_url: https://cursemeta.nikky.moe/api/addon/284948
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/cramming-pressure-plate
 Cranes & Construction:
   api_url: https://cursemeta.nikky.moe/api/addon/265772
   webste_url: https://www.curseforge.com/minecraft/mc-mods/cranes-construction
@@ -5179,6 +5221,12 @@ DevTooltips:
 DevWorld:
   api_url: https://cursemeta.nikky.moe/api/addon/243748
   webste_url: https://www.curseforge.com/minecraft/mc-mods/devworld
+Device AI:
+  api_url: https://cursemeta.nikky.moe/api/addon/285182
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/device-ai
+Device Mod Apps:
+  api_url: https://cursemeta.nikky.moe/api/addon/284797
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/device-mod-apps
 Devon's Random Things:
   api_url: https://cursemeta.nikky.moe/api/addon/225538
   webste_url: https://www.curseforge.com/minecraft/mc-mods/devons-random-things
@@ -5548,6 +5596,9 @@ DropAnything:
 DropOff:
   api_url: https://cursemeta.nikky.moe/api/addon/267041
   webste_url: https://www.curseforge.com/minecraft/mc-mods/dropoff
+Dropt:
+  api_url: https://cursemeta.nikky.moe/api/addon/284973
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/dropt
 Druidry:
   api_url: https://cursemeta.nikky.moe/api/addon/246943
   webste_url: https://www.curseforge.com/minecraft/mc-mods/druidry
@@ -5782,6 +5833,9 @@ Eagles essentials:
 Earthworks:
   api_url: https://cursemeta.nikky.moe/api/addon/255427
   webste_url: https://www.curseforge.com/minecraft/mc-mods/earthworks
+Easier Survival Addon:
+  api_url: https://cursemeta.nikky.moe/api/addon/284847
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/easier-survival-addon
 EasierChests:
   api_url: https://cursemeta.nikky.moe/api/addon/279501
   webste_url: https://www.curseforge.com/minecraft/mc-mods/easierchests
@@ -6325,6 +6379,9 @@ Enhanced Comparator:
 Enhanced Environment:
   api_url: https://cursemeta.nikky.moe/api/addon/282347
   webste_url: https://www.curseforge.com/minecraft/mc-mods/enhanced-environment
+Enhanced Farming:
+  api_url: https://cursemeta.nikky.moe/api/addon/285105
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/enhanced-farming
 'Enhanced Gui ':
   api_url: https://cursemeta.nikky.moe/api/addon/43581
   webste_url: https://www.curseforge.com/minecraft/mc-mods/enhanced-gui
@@ -6529,6 +6586,9 @@ Eureka:
 Even More Buttons Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/229444
   webste_url: https://www.curseforge.com/minecraft/mc-mods/even-more-buttons-mod
+Even More Explosives Mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284794
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/even-more-explosives-mod
 EvenMoreFood:
   api_url: https://cursemeta.nikky.moe/api/addon/283690
   webste_url: https://www.curseforge.com/minecraft/mc-mods/evenmorefood-first-mod
@@ -6733,6 +6793,9 @@ Extended Debug Renders:
 Extended Illagers Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/272500
   webste_url: https://www.curseforge.com/minecraft/mc-mods/extended-illagers-mod
+Extended Item Information:
+  api_url: https://cursemeta.nikky.moe/api/addon/285166
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/extended-item-information
 Extended Metals Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/251123
   webste_url: https://www.curseforge.com/minecraft/mc-mods/extended-metals-mod
@@ -7138,6 +7201,9 @@ Farming for Blockheads:
 Farseek:
   api_url: https://cursemeta.nikky.moe/api/addon/229708
   webste_url: https://www.curseforge.com/minecraft/mc-mods/farseek
+Farts:
+  api_url: https://cursemeta.nikky.moe/api/addon/284649
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/farts
 Fast Building:
   api_url: https://cursemeta.nikky.moe/api/addon/224081
   webste_url: https://www.curseforge.com/minecraft/mc-mods/fast-building
@@ -7900,7 +7966,7 @@ Future Things & More:
 Futurepack:
   api_url: https://cursemeta.nikky.moe/api/addon/237333
   webste_url: https://www.curseforge.com/minecraft/mc-mods/futurepack
-Futurepack Addons:
+Futurepack Addons Stopped Moved to Futurepack Colorization Addon:
   api_url: https://cursemeta.nikky.moe/api/addon/283193
   webste_url: https://www.curseforge.com/minecraft/mc-mods/futurepack-addons
 Futurepack Colorization Addon:
@@ -8029,6 +8095,9 @@ Gases Framework:
 Gatemod - Teleport WallSign-Button Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/243901
   webste_url: https://www.curseforge.com/minecraft/mc-mods/gatemod-teleport-wallsign-button-mod
+GatovMod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284885
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/gatovmod
 Gear Swapper:
   api_url: https://cursemeta.nikky.moe/api/addon/236610
   webste_url: https://www.curseforge.com/minecraft/mc-mods/gear-swapper
@@ -11187,7 +11256,7 @@ MabTost:
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mabtost
 Machine Power Craft:
   api_url: https://cursemeta.nikky.moe/api/addon/235177
-  webste_url: https://www.curseforge.com/minecraft/mc-mods/machine-power-craft
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mpc
 Machines:
   api_url: https://cursemeta.nikky.moe/api/addon/229942
   webste_url: https://www.curseforge.com/minecraft/mc-mods/machines
@@ -11224,6 +11293,9 @@ Magic Clover:
 Magic Cookies:
   api_url: https://cursemeta.nikky.moe/api/addon/231755
   webste_url: https://www.curseforge.com/minecraft/mc-mods/magic-cookies
+Magic Feather:
+  api_url: https://cursemeta.nikky.moe/api/addon/284745
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/magic-feather
 Magic Ink Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/242770
   webste_url: https://www.curseforge.com/minecraft/mc-mods/magic-ink-mod
@@ -11257,6 +11329,9 @@ MagicBooks2:
 MagicCurrencyBooks(MCB):
   api_url: https://cursemeta.nikky.moe/api/addon/245874
   webste_url: https://www.curseforge.com/minecraft/mc-mods/magiccurrencybooks-mcb
+MagicSubs:
+  api_url: https://cursemeta.nikky.moe/api/addon/285137
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/magicsubs
 Magical Crops:
   api_url: https://cursemeta.nikky.moe/api/addon/228834
   webste_url: https://www.curseforge.com/minecraft/mc-mods/magical-crops
@@ -11614,6 +11689,9 @@ Melon Harvester Mod:
 Melon Pants:
   api_url: https://cursemeta.nikky.moe/api/addon/243164
   webste_url: https://www.curseforge.com/minecraft/mc-mods/melon-pants
+Melt:
+  api_url: https://cursemeta.nikky.moe/api/addon/285161
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/melt
 Meltery:
   api_url: https://cursemeta.nikky.moe/api/addon/269013
   webste_url: https://www.curseforge.com/minecraft/mc-mods/meltery
@@ -11881,6 +11959,9 @@ Minecraft Classified:
 Minecraft Comes Alive (MCA):
   api_url: https://cursemeta.nikky.moe/api/addon/59693
   webste_url: https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca
+Minecraft Discs:
+  api_url: https://cursemeta.nikky.moe/api/addon/284757
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/minecraft-discs
 Minecraft Expanded:
   api_url: https://cursemeta.nikky.moe/api/addon/243148
   webste_url: https://www.curseforge.com/minecraft/mc-mods/minecraft-expanded
@@ -12274,6 +12355,9 @@ Mob Drop Exchange Orb:
 Mob Drop Ores:
   api_url: https://cursemeta.nikky.moe/api/addon/228367
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-drop-ores
+Mob Drops Your Way:
+  api_url: https://cursemeta.nikky.moe/api/addon/284805
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-drops
 Mob Farm:
   api_url: https://cursemeta.nikky.moe/api/addon/254046
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-farm
@@ -12322,6 +12406,9 @@ Mob Spawn Limits:
 Mob Spawner Block [Minecraft 1.6.4]:
   api_url: https://cursemeta.nikky.moe/api/addon/69321
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-spawner-block-minecraft-1-6
+Mob Spawner Control:
+  api_url: https://cursemeta.nikky.moe/api/addon/284754
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/spawner-control
 Mob Stages:
   api_url: https://cursemeta.nikky.moe/api/addon/278359
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-stages
@@ -12373,6 +12460,9 @@ MobiusCore:
 Mobmania:
   api_url: https://cursemeta.nikky.moe/api/addon/221676
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mobmania
+Mobs Properties Randomness:
+  api_url: https://cursemeta.nikky.moe/api/addon/285012
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mobs-properties-randomness
 Mobs' crops:
   api_url: https://cursemeta.nikky.moe/api/addon/281168
   webste_url: https://www.curseforge.com/minecraft/mc-mods/mob-crops
@@ -12898,6 +12988,9 @@ Morph-o-Tool:
 MorphAdditions:
   api_url: https://cursemeta.nikky.moe/api/addon/223803
   webste_url: https://www.curseforge.com/minecraft/mc-mods/morphadditions
+MorphTweaks:
+  api_url: https://cursemeta.nikky.moe/api/addon/281304
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/morph-tweaks
 Morpheus:
   api_url: https://cursemeta.nikky.moe/api/addon/69118
   webste_url: https://www.curseforge.com/minecraft/mc-mods/morpheus
@@ -13093,6 +13186,9 @@ Mutton Mod:
 My Heroes Ability Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/244636
   webste_url: https://www.curseforge.com/minecraft/mc-mods/my-heroes-ability-mod
+My Little Mob Grinder:
+  api_url: https://cursemeta.nikky.moe/api/addon/285052
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/my-little-mob-grinder
 My Own Music aka McMusicPlayer:
   api_url: https://cursemeta.nikky.moe/api/addon/244002
   webste_url: https://www.curseforge.com/minecraft/mc-mods/my-own-music-aka-mcmusicplayer
@@ -13240,6 +13336,9 @@ NHAVE's OmniWrench:
 NHAVE's Omniwrench Integrations:
   api_url: https://cursemeta.nikky.moe/api/addon/74761
   webste_url: https://www.curseforge.com/minecraft/mc-mods/nhaves-omniwrench-integrations
+NMCLC (NoMoreCapsLockCommands):
+  api_url: https://cursemeta.nikky.moe/api/addon/284752
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/nmclc
 NOEL ~ Christmas Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/254455
   webste_url: https://www.curseforge.com/minecraft/mc-mods/noel-christmas-mod
@@ -13753,6 +13852,9 @@ NotEnoughKeys:
 NotEnoughResources:
   api_url: https://cursemeta.nikky.moe/api/addon/225815
   webste_url: https://www.curseforge.com/minecraft/mc-mods/notenoughresources
+NotEnoughScaffold:
+  api_url: https://cursemeta.nikky.moe/api/addon/285170
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold
 NotEnoughThaumcraftTabs:
   api_url: https://cursemeta.nikky.moe/api/addon/237232
   webste_url: https://www.curseforge.com/minecraft/mc-mods/notenoughthaumcrafttabs
@@ -13945,6 +14047,9 @@ Ocean Floor - Clay Sand and Dirt:
 Oceancraft mod:
   api_url: https://cursemeta.nikky.moe/api/addon/239058
   webste_url: https://www.curseforge.com/minecraft/mc-mods/oceancraft-mod
+Ocelot5836's Craytunes:
+  api_url: https://cursemeta.nikky.moe/api/addon/284716
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/ocelot5836s-craytunes
 Ocelot5836's Random Trinkets and Items:
   api_url: https://cursemeta.nikky.moe/api/addon/258556
   webste_url: https://www.curseforge.com/minecraft/mc-mods/ocelot5836s-random-trinkets-and-items
@@ -13984,6 +14089,9 @@ Old Book Recipe Mod:
 Old Guns Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/232682
   webste_url: https://www.curseforge.com/minecraft/mc-mods/old-guns-mod
+Old Obsidian:
+  api_url: https://cursemeta.nikky.moe/api/addon/284764
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/old-obsidian
 Old School Book Recipe:
   api_url: https://cursemeta.nikky.moe/api/addon/245565
   webste_url: https://www.curseforge.com/minecraft/mc-mods/old-school-book-recipe
@@ -14545,6 +14653,9 @@ Parzi's Star Wars Mod:
 Passable Leaves:
   api_url: https://cursemeta.nikky.moe/api/addon/267934
   webste_url: https://www.curseforge.com/minecraft/mc-mods/passable-leaves
+Passive Aggression:
+  api_url: https://cursemeta.nikky.moe/api/addon/284800
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/passive-aggression
 Passive Torch:
   api_url: https://cursemeta.nikky.moe/api/addon/236003
   webste_url: https://www.curseforge.com/minecraft/mc-mods/passive-torch
@@ -15345,7 +15456,7 @@ Progenitor:
   webste_url: https://www.curseforge.com/minecraft/mc-mods/progenitor
 Programmable Command Blocks (PCB):
   api_url: https://cursemeta.nikky.moe/api/addon/262071
-  webste_url: https://www.curseforge.com/minecraft/mc-mods/programmable-command-blocks-pcb
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/pcb
 Programming 8x9Craft:
   api_url: https://cursemeta.nikky.moe/api/addon/261297
   webste_url: https://www.curseforge.com/minecraft/mc-mods/programming-8x9craft
@@ -15808,6 +15919,9 @@ RailsPlus:
 Rain Control:
   api_url: https://cursemeta.nikky.moe/api/addon/280581
   webste_url: https://www.curseforge.com/minecraft/mc-mods/rain-control
+Rain Delay:
+  api_url: https://cursemeta.nikky.moe/api/addon/284844
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/rain-delay
 RainSjaman:
   api_url: https://cursemeta.nikky.moe/api/addon/241423
   webste_url: https://www.curseforge.com/minecraft/mc-mods/rainsjaman
@@ -15880,6 +15994,9 @@ Random Custom Mod:
 Random Decorative Things:
   api_url: https://cursemeta.nikky.moe/api/addon/252494
   webste_url: https://www.curseforge.com/minecraft/mc-mods/random-decorative-things
+Random Islands:
+  api_url: https://cursemeta.nikky.moe/api/addon/284767
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/random-islands
 Random Item Command (Configurable):
   api_url: https://cursemeta.nikky.moe/api/addon/241650
   webste_url: https://www.curseforge.com/minecraft/mc-mods/random-item-command-configurable
@@ -16744,6 +16861,9 @@ SCP - Containment Breach:
 SCcmdSimplifier:
   api_url: https://cursemeta.nikky.moe/api/addon/63612
   webste_url: https://www.curseforge.com/minecraft/mc-mods/sccmdsimplifier
+SDM-mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284969
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/sdm-mod
 SFArtifacts:
   api_url: https://cursemeta.nikky.moe/api/addon/232759
   webste_url: https://www.curseforge.com/minecraft/mc-mods/sfartifacts
@@ -16774,6 +16894,9 @@ SK Utilities:
 SKEnergy:
   api_url: https://cursemeta.nikky.moe/api/addon/240958
   webste_url: https://www.curseforge.com/minecraft/mc-mods/skenergy
+SMod:
+  api_url: https://cursemeta.nikky.moe/api/addon/285045
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/smod
 SOMuchStuff Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/245505
   webste_url: https://www.curseforge.com/minecraft/mc-mods/somuchstuff-mod
@@ -16921,6 +17044,9 @@ Schematica:
 Schools of Magic:
   api_url: https://cursemeta.nikky.moe/api/addon/247041
   webste_url: https://www.curseforge.com/minecraft/mc-mods/schools-of-magic
+SchopCraft:
+  api_url: https://cursemeta.nikky.moe/api/addon/272759
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/schopcraft
 SciAPI:
   api_url: https://cursemeta.nikky.moe/api/addon/236080
   webste_url: https://www.curseforge.com/minecraft/mc-mods/sciapi
@@ -17413,6 +17539,9 @@ Simple Gunpowder Recipe:
 Simple HUDs:
   api_url: https://cursemeta.nikky.moe/api/addon/269539
   webste_url: https://www.curseforge.com/minecraft/mc-mods/simple-huds
+Simple Hammers:
+  api_url: https://cursemeta.nikky.moe/api/addon/285140
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/simple-hammers
 Simple Harvest:
   api_url: https://cursemeta.nikky.moe/api/addon/243679
   webste_url: https://www.curseforge.com/minecraft/mc-mods/simple-harvest
@@ -17548,6 +17677,9 @@ SimpleHarvest:
 SimpleHolo:
   api_url: https://cursemeta.nikky.moe/api/addon/230037
   webste_url: https://www.curseforge.com/minecraft/mc-mods/simpleholo
+SimpleIRCBridge:
+  api_url: https://cursemeta.nikky.moe/api/addon/284941
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/simpleircbridge
 SimpleInventoryStarter:
   api_url: https://cursemeta.nikky.moe/api/addon/253147
   webste_url: https://www.curseforge.com/minecraft/mc-mods/simpleinventorystarter
@@ -17947,6 +18079,9 @@ Snad:
 Snaploader:
   api_url: https://cursemeta.nikky.moe/api/addon/236598
   webste_url: https://www.curseforge.com/minecraft/mc-mods/snaploader
+SnatchyBuckles Addon:
+  api_url: https://cursemeta.nikky.moe/api/addon/284795
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/snatchybuckles-addon
 Snow Accumulation:
   api_url: https://cursemeta.nikky.moe/api/addon/275415
   webste_url: https://www.curseforge.com/minecraft/mc-mods/snow-accumulation
@@ -18658,6 +18793,9 @@ SubLib:
 Subsistence:
   api_url: https://cursemeta.nikky.moe/api/addon/229441
   webste_url: https://www.curseforge.com/minecraft/mc-mods/subsistence
+Substrate:
+  api_url: https://cursemeta.nikky.moe/api/addon/285202
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/substrate
 Substratum:
   api_url: https://cursemeta.nikky.moe/api/addon/241113
   webste_url: https://www.curseforge.com/minecraft/mc-mods/substratum
@@ -19222,6 +19360,9 @@ Teleporto:
 Teletubbies Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/236040
   webste_url: https://www.curseforge.com/minecraft/mc-mods/teletubbies-mod
+Telex Teleport:
+  api_url: https://cursemeta.nikky.moe/api/addon/285162
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/telex-teleport
 Telicraft:
   api_url: https://cursemeta.nikky.moe/api/addon/62347
   webste_url: https://www.curseforge.com/minecraft/mc-mods/telicraft
@@ -19321,6 +19462,9 @@ Testium Mod:
 TexFix:
   api_url: https://cursemeta.nikky.moe/api/addon/283344
   webste_url: https://www.curseforge.com/minecraft/mc-mods/texfix
+Text Overlay:
+  api_url: https://cursemeta.nikky.moe/api/addon/285103
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/text-overlay
 ThaumOres:
   api_url: https://cursemeta.nikky.moe/api/addon/237899
   webste_url: https://www.curseforge.com/minecraft/mc-mods/thaumores
@@ -19795,6 +19939,9 @@ The Pixels Mod:
 'The PopularMMOs Mod! ':
   api_url: https://cursemeta.nikky.moe/api/addon/261652
   webste_url: https://www.curseforge.com/minecraft/mc-mods/the-popularmmos-mod
+The Portal Mod:
+  api_url: https://cursemeta.nikky.moe/api/addon/285065
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/the-portal-mod
 The Power Wand v1.0 - Zap!:
   api_url: https://cursemeta.nikky.moe/api/addon/236256
   webste_url: https://www.curseforge.com/minecraft/mc-mods/the-power-wand-v1-0-zap
@@ -20212,6 +20359,9 @@ TimeTraveler!:
 Timely Stones Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/228264
   webste_url: https://www.curseforge.com/minecraft/mc-mods/timely-stones-mod
+TimeoMod:
+  api_url: https://cursemeta.nikky.moe/api/addon/284952
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/timeomod
 Timer mod:
   api_url: https://cursemeta.nikky.moe/api/addon/45551
   webste_url: https://www.curseforge.com/minecraft/mc-mods/timer-mod
@@ -20569,9 +20719,15 @@ Tracer:
 Track API:
   api_url: https://cursemeta.nikky.moe/api/addon/282613
   webste_url: https://www.curseforge.com/minecraft/mc-mods/track-api
+Track It Up:
+  api_url: https://cursemeta.nikky.moe/api/addon/284717
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/track-it-up
 Trade:
   api_url: https://cursemeta.nikky.moe/api/addon/270204
   webste_url: https://www.curseforge.com/minecraft/mc-mods/trade
+Tradebars:
+  api_url: https://cursemeta.nikky.moe/api/addon/285049
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/tradebars
 TragicMC:
   api_url: https://cursemeta.nikky.moe/api/addon/71688
   webste_url: https://www.curseforge.com/minecraft/mc-mods/tragicmc
@@ -21112,6 +21268,9 @@ Useful:
 Useful Additions v2.3 (1.7.10):
   api_url: https://cursemeta.nikky.moe/api/addon/230470
   webste_url: https://www.curseforge.com/minecraft/mc-mods/useful-additions-v2-3-1-7-10
+Useful Backpacks:
+  api_url: https://cursemeta.nikky.moe/api/addon/274338
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/useful-backpacks
 Useful Cows[Much more Cows] Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/280240
   webste_url: https://www.curseforge.com/minecraft/mc-mods/usefull-cows-much-more-cows-mod
@@ -21727,6 +21886,9 @@ Water Strainer:
 Water Walking Mod:
   api_url: https://cursemeta.nikky.moe/api/addon/223407
   webste_url: https://www.curseforge.com/minecraft/mc-mods/water-walking-mod
+Watercan:
+  api_url: https://cursemeta.nikky.moe/api/addon/280620
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/ct-watercan
 Watercraft:
   api_url: https://cursemeta.nikky.moe/api/addon/232891
   webste_url: https://www.curseforge.com/minecraft/mc-mods/watercraft
@@ -21850,6 +22012,9 @@ Werkbench:
 Wesserboy's Overlays:
   api_url: https://cursemeta.nikky.moe/api/addon/277684
   webste_url: https://www.curseforge.com/minecraft/mc-mods/wesserboys-overlays
+Wetstone:
+  api_url: https://cursemeta.nikky.moe/api/addon/284742
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/wetstone
 What Is Its EMC:
   api_url: https://cursemeta.nikky.moe/api/addon/232271
   webste_url: https://www.curseforge.com/minecraft/mc-mods/what-is-its-emc
@@ -22225,6 +22390,9 @@ Wynncraft Worldmap Mod:
 WynncraftEnhanced:
   api_url: https://cursemeta.nikky.moe/api/addon/251958
   webste_url: https://www.curseforge.com/minecraft/mc-mods/wynncraftenhanced
+WynncraftGuildMap:
+  api_url: https://cursemeta.nikky.moe/api/addon/284792
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/mapwriter-wynncraftguildmap
 WynncraftRichPresence:
   api_url: https://cursemeta.nikky.moe/api/addon/283032
   webste_url: https://www.curseforge.com/minecraft/mc-mods/wynncraftrichpresence
@@ -22753,7 +22921,7 @@ floating island mod:
 gmCGENmod:
   api_url: https://cursemeta.nikky.moe/api/addon/262097
   webste_url: https://www.curseforge.com/minecraft/mc-mods/gmcgenmod
-grass And Hyper Mod:
+grass And Hyper Mod(Funny):
   api_url: https://cursemeta.nikky.moe/api/addon/242108
   webste_url: https://www.curseforge.com/minecraft/mc-mods/grass-and-hyper-mod
 grizeldi's Boost Mod:
@@ -22993,6 +23161,9 @@ two k mod:
 ultralisim:
   api_url: https://cursemeta.nikky.moe/api/addon/252562
   webste_url: https://www.curseforge.com/minecraft/mc-mods/ultralisim
+utility gold tools:
+  api_url: https://cursemeta.nikky.moe/api/addon/285221
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/utility-gold-tools
 vengamodmc:
   api_url: https://cursemeta.nikky.moe/api/addon/272860
   webste_url: https://www.curseforge.com/minecraft/mc-mods/vengamodmc
