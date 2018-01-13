@@ -3730,6 +3730,9 @@ Command Spammer:
 Command Your World:
   api_url: https://cursemeta.nikky.moe/api/addon/237263
   webste_url: https://www.curseforge.com/minecraft/mc-mods/command-your-world
+Command-O-Matic:
+  api_url: https://cursemeta.nikky.moe/api/addon/285201
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/command-o-matic
 CommandAPI:
   api_url: https://cursemeta.nikky.moe/api/addon/62383
   webste_url: https://www.curseforge.com/minecraft/mc-mods/commandapi
@@ -20386,6 +20389,9 @@ Tinkered Constructor:
 Tinkers Construct:
   api_url: https://cursemeta.nikky.moe/api/addon/74072
   webste_url: https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
+Tinkers Extras:
+  api_url: https://cursemeta.nikky.moe/api/addon/285238
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/tinkersextras
 Tinkers Tool Leveling Addon for Bows:
   api_url: https://cursemeta.nikky.moe/api/addon/275612
   webste_url: https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling-addon-for-bows
