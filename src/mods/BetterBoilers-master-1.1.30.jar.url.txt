@@ -1,1 +1,0 @@
-https://ci.elytradev.com/job/elytra/job/BetterBoilers/job/master/30/artifact/build/libs/BetterBoilers-master-1.1.30.jar

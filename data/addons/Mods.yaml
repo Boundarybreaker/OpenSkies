@@ -3079,6 +3079,9 @@ Charset Storage - Barrels:
 Charset Storage - Tanks:
   api_url: https://cursemeta.nikky.moe/api/addon/284530
   webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-storage-tanks
+Charset Tablet:
+  api_url: https://cursemeta.nikky.moe/api/addon/285310
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-tablet
 Charset Transport - Carts and Rails:
   api_url: https://cursemeta.nikky.moe/api/addon/284581
   webste_url: https://www.curseforge.com/minecraft/mc-mods/charset-transport-carts-and-rails
@@ -4165,6 +4168,9 @@ Craft Arcanum 1:
 Craft Arcanum 2:
   api_url: https://cursemeta.nikky.moe/api/addon/241894
   webste_url: https://www.curseforge.com/minecraft/mc-mods/craft-arcanum-2
+Craft Matter:
+  api_url: https://cursemeta.nikky.moe/api/addon/285253
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/craft-matter
 Craft the Uncraftable!:
   api_url: https://cursemeta.nikky.moe/api/addon/70135
   webste_url: https://www.curseforge.com/minecraft/mc-mods/craft-the-uncraftable
@@ -7615,6 +7621,9 @@ Food Comfort Mod for Minecraft 1.8:
 Food Details:
   api_url: https://cursemeta.nikky.moe/api/addon/232516
   webste_url: https://www.curseforge.com/minecraft/mc-mods/food-details
+Food Editor:
+  api_url: https://cursemeta.nikky.moe/api/addon/285279
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/food-editor
 Food Expansion:
   api_url: https://cursemeta.nikky.moe/api/addon/235328
   webste_url: https://www.curseforge.com/minecraft/mc-mods/food-expansion
@@ -13705,6 +13714,9 @@ No Potion FOV:
 No Potion Shift:
   api_url: https://cursemeta.nikky.moe/api/addon/243863
   webste_url: https://www.curseforge.com/minecraft/mc-mods/no-potion-shift
+No Recipe Book:
+  api_url: https://cursemeta.nikky.moe/api/addon/284904
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/no-recipe-book
 No Sleeping Allowed:
   api_url: https://cursemeta.nikky.moe/api/addon/264391
   webste_url: https://www.curseforge.com/minecraft/mc-mods/no-sleeping-allowed
@@ -14098,6 +14110,9 @@ Old Obsidian:
 Old School Book Recipe:
   api_url: https://cursemeta.nikky.moe/api/addon/245565
   webste_url: https://www.curseforge.com/minecraft/mc-mods/old-school-book-recipe
+Old and Removed Features:
+  api_url: https://cursemeta.nikky.moe/api/addon/285295
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/old-and-removed-features
 OldTitleScreen:
   api_url: https://cursemeta.nikky.moe/api/addon/34262
   webste_url: https://www.curseforge.com/minecraft/mc-mods/oldtitlescreen
@@ -14575,6 +14590,9 @@ Pam's Mob Drop Crops:
 Pam's Need Moar Sticks:
   api_url: https://cursemeta.nikky.moe/api/addon/241082
   webste_url: https://www.curseforge.com/minecraft/mc-mods/pams-need-moar-sticks
+Pam's Pig Skin:
+  api_url: https://cursemeta.nikky.moe/api/addon/285273
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/pams-pig-skin
 Pam's Portal Poof:
   api_url: https://cursemeta.nikky.moe/api/addon/278482
   webste_url: https://www.curseforge.com/minecraft/mc-mods/pams-portal-poof
@@ -15301,6 +15319,9 @@ Potion Storage - pause your effects and save them for later:
 Potion Wands:
   api_url: https://cursemeta.nikky.moe/api/addon/75306
   webste_url: https://www.curseforge.com/minecraft/mc-mods/potion-wands
+PotionCraft:
+  api_url: https://cursemeta.nikky.moe/api/addon/285234
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/potioncraft
 PotionExtension:
   api_url: https://cursemeta.nikky.moe/api/addon/230023
   webste_url: https://www.curseforge.com/minecraft/mc-mods/potionextension
@@ -18511,6 +18532,9 @@ StalCraft:
 StalCraft2 - Blocks:
   api_url: https://cursemeta.nikky.moe/api/addon/282599
   webste_url: https://www.curseforge.com/minecraft/mc-mods/stalcraft2
+StalCraft2 - Weapons:
+  api_url: https://cursemeta.nikky.moe/api/addon/285298
+  webste_url: https://www.curseforge.com/minecraft/mc-mods/stalcraft2-weapons-tools
 Stalker Creepers:
   api_url: https://cursemeta.nikky.moe/api/addon/227886
   webste_url: https://www.curseforge.com/minecraft/mc-mods/stalker-creepers
